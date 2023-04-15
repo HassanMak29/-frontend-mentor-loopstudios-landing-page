@@ -25,7 +25,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/HassanMak29/frontend-mentor-loopside-landing-page)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://frontend-mentor-loopstudios-landing.netlify.app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### What I learned
 
-In this project I used learned to use the clamp operator for widths and font sizes.|
+In this project I learned to use the clamp operator for widths and font sizes.
 
 ```css
 header {
